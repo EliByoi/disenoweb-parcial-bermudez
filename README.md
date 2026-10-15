@@ -2,11 +2,6 @@
 
 Sitio web de una tienda virtual de juegos digitales inspirada en **Eneba**. Vende claves de juegos, tarjetas de regalo y software, con el color morado característico de la marca.
 
-## Web publicada
-https://TU-USUARIO.github.io/disenoweb-parcial-suapellido/
-
-*(cambia TU-USUARIO por tu usuario de GitHub cuando actives GitHub Pages)*
-
 ## Tecnologías usadas
 - **HTML5** con etiquetas semánticas (`header`, `nav`, `main`, `section`, `article`, `aside`, `footer`)
 - **CSS3** propio: selectores de id, clase y atributo, `float`, `transition`, `transform` y `@keyframes`
@@ -19,13 +14,13 @@ https://TU-USUARIO.github.io/disenoweb-parcial-suapellido/
 Buscador y carrito, ofertas con filtros por categoría, catálogo, servicios y políticas, preguntas frecuentes, cupón por suscripción, contacto y métodos de pago.
 
 ## Estructura
-```
+
 index.html
 README.md
 css/style.css
-imagenes/   (todas en PNG)
-media/      (video local)
-```
+imagenes/   
+media/      
+
 
 ## Cómo verla
 Abre `index.html` en tu navegador (necesita internet para cargar Bootstrap y el video de YouTube).
